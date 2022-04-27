@@ -1,1 +1,1 @@
-const testFind = arr.find(logicalFindSocket)
+testFind3
