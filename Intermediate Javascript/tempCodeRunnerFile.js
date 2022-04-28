@@ -1,1 +1,2 @@
-Object.freeze(
+
+fizzBuzz()

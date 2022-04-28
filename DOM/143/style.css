@@ -1,0 +1,14 @@
+.section {
+
+
+    
+}
+
+ul li a {
+    color: black;
+    text-decoration: none;
+}
+ul li a:hover {
+    color: rgb(24, 76, 145);
+
+}

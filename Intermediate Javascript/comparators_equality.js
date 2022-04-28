@@ -13,8 +13,6 @@ if(socket !== 900) {
 
 
 
-
-
 /// GLUCOSE SOLUTION MEDICINE
 
 
