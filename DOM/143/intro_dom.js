@@ -2,7 +2,6 @@ import { items } from './arr.js'
 
 
 const sect = document.querySelector('.section')
-
 // sect.style.background = '#bbd8c9';
 // sect.style.width = '900px';
 // sect.style.height = '500px';
@@ -25,8 +24,14 @@ document.getElementsByTagName('li').length
 // }
 // )
 
-
 document.querySelector('h1').innerHTML = `HELLO FULLSTACK ${items[2]}`
+
+
+sect.classList.add('invisible')
+
+const invi = document.querySelector('.invisible')
+// invi.style.display = 'none'
+
 
 
 
