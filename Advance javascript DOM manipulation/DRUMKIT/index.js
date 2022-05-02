@@ -6,19 +6,22 @@
 // 2 - Faço um loop do valor armazenado acima (no caso do querySelectorAll().length)
 // 3 - Dentro do bloco do loop ponha o querySelectorAll + o incremento passado por bloco de array [i], depois addEventlistener para o determinado evento 
 
+const interaClass = document.querySelectorAll('.drum').length
 
-let numberOfButtons = document.querySelectorAll('.drum').length;
 
-for(var i = 0; i < numberOfButtons; i++) {
+for(var i = 0; i < interaClass; i++) {
 
-const clicked = document.querySelectorAll('button');
+const getButton = document.querySelectorAll('button');
 
-clicked[i].addEventListener('click', function() {
-    
-        alert('i got Click!');
-    
-        })
+getButton[i].addEventListener('click', function(e) {
 
+// let audio = new Audio('./sounds/tom-3.mp3')
+
+// audio.play()
+
+this.style.color = '#bbddaa';
+
+
+})
 
 }
-
