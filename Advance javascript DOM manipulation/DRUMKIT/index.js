@@ -40,7 +40,6 @@ getSound(e.key)
 })
 
 
-
         function getSound(key) {
                 
 switch(key) {

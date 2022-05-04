@@ -1,0 +1,28 @@
+pwd << ver pastas
+
+touch index.js < criar arquivo
+
+mkdir criar diretorio (pasta)
+
+
+cd entrar em determinado local
+
+ls -l ver permisão data de alteração nome do usuário no pc 
+
+ls -lias
+
+////
+
+Read, evaluation, print, loop
+
+commands:
+
+node + ENTER ex: console.log('hello');
+
+ctrl + c    2x /// finish application or .exit
+
+
+///documentation
+ nodejs.org
+
+///
