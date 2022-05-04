@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url('./image/bk.gif') no-repeat fixed;
+    background-size: 100% 100%;
+width: 100%;
+height: 100vh;
+    
+}
+
+
+.sect {
+
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+img {
+
+    position: relative;
+    top: 266px;
+}
+
+
+img:hover {
+
+    cursor: pointer;
+}
